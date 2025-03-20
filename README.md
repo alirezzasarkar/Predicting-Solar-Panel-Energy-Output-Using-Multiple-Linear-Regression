@@ -1,0 +1,1 @@
+# Predicting-Solar-Panel-Energy-Output-Using-Multiple-Linear-Regression
